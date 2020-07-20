@@ -1,9 +1,7 @@
 package tree.two_sum_iv_input_is_a_bst;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class TwoSumIvInputIsABst2 {
 
