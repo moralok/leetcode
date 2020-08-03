@@ -3,6 +3,7 @@ package lcof.lcof014_i;
 public class Lcof014ISolution {
     public int cuttingRope(int n) {
         // 数学推导
+        // O(1) O(1)
         if (n <= 3) {
             return n - 1;
         }
