@@ -1,6 +1,6 @@
-package lcof.lcof010;
+package lcof.lcof010_i;
 
-public class Lcof010Solution2 {
+public class Lcof010ISolution2 {
     public int fib(int n) {
         // 动态规划
         // 别忘记求余

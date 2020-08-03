@@ -1,6 +1,6 @@
-package lcof.lcof010;
+package lcof.lcof010_i;
 
-public class Lcof010Solution3 {
+public class Lcof010ISolution3 {
     public int fib(int n) {
         // 基于列表记忆化
         if (n == 0) {

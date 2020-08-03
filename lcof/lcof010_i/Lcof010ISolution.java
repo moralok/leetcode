@@ -1,6 +1,6 @@
-package lcof.lcof010;
+package lcof.lcof010_i;
 
-public class Lcof010Solution {
+public class Lcof010ISolution {
     public int fib(int n) {
         // 递归 超时
         if (n == 0) {
