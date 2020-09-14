@@ -1,3 +1,5 @@
+package dynamic_programming.climbing_stairs;
+
 class ClimbingStairs {
     public int climbStairs(int n) {
         int a = 1, b = 1;

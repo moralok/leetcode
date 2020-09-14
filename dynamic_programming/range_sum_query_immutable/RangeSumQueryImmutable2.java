@@ -1,3 +1,5 @@
+package dynamic_programming.range_sum_query_immutable;
+
 class NumArray {
 
     private int[] sums;
