@@ -2,6 +2,7 @@ package gragh.flower_planting_with_no_adjacent;
 
 import java.util.LinkedList;
 
+@SuppressWarnings("unchecked")
 public class FlowerPlantingWithNoAdjacent {
     public int[] gardenNoAdj(int N, int[][] paths) {
         // 邻接表
