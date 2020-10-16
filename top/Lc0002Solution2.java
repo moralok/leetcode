@@ -44,6 +44,10 @@ public class Lc0002Solution2 {
         }
         Lc0002Solution2 solution = new Lc0002Solution2();
         ListNode head = solution.addTwoNumbers(l1, l2);
+        while (head != null) {
+            System.out.print(head.val);
+            head = head.next;
+        }
         return;
     }
 }
