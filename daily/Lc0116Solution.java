@@ -1,4 +1,4 @@
-package daily.lc0116;
+package daily;
 
 public class Lc0116Solution {
     public Node connect(Node root) {

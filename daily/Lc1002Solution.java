@@ -1,4 +1,4 @@
-package daily.lc1002;
+package daily;
 
 import java.util.Arrays;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package daily.lc0977;
+package daily;
 
 public class Lc0977Solution {
     public int[] sortedSquares(int[] A) {

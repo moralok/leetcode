@@ -1,4 +1,4 @@
-package daily.lc0116;
+package daily;
 
 public class Node {
     int val;
