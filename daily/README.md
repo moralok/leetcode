@@ -6,3 +6,4 @@
 |[0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|中等|20201015|
 |[0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|有序数组的平方|简单|20201016|
 |[0844](https://leetcode-cn.com/problems/backspace-string-compare/)|比较含退格的字符串|简单|20201019|
+|[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|20201020|
