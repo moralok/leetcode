@@ -7,3 +7,4 @@
 |[0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|有序数组的平方|简单|20201016|
 |[0844](https://leetcode-cn.com/problems/backspace-string-compare/)|比较含退格的字符串|简单|20201019|
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|20201020|
+|[0925](https://leetcode-cn.com/problems/long-pressed-name/)|长按键入|简单|20201021|

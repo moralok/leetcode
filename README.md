@@ -33,7 +33,7 @@
 |0111|二叉树的最小深度|简单|
 |0112|路径总和|简单|
 |0114|二叉树展开为链表|中等|
-|[0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|[填充每个节点的下一个右侧节点指针](daily/lc0116)|中等|
+|[0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|[填充每个节点的下一个右侧节点指针](daily)|中等|
 |0117|填充每个节点的下一个右侧节点指针 II|中等|
 |0118|杨辉三角|简单|
 |0121|买卖股票的最佳时机|简单|
@@ -41,6 +41,7 @@
 |0125|验证回文串|简单|
 |0136|只出现一次的数字|简单|
 |0141|环形链表|简单|
+|[0143](https://leetcode-cn.com/problems/reorder-list/)|[重排链表](daily)|中等|
 |0144|二叉树的前序遍历|中等|
 |0145|二叉树的后序遍历|困难|
 |0148|排序链表|中等|是|
@@ -110,12 +111,14 @@
 |0747|至少是其他数字两倍的最大数|简单|
 |0804|唯一摩尔斯密码词|简单|
 |0836|矩形重叠|简单|
+|[0844](https://leetcode-cn.com/problems/backspace-string-compare/)|[有序数组的平方](daily)|简单|
+|[0925](https://leetcode-cn.com/problems/long-pressed-name/)|[长按键入](daily)|简单|
 |0929|独特的电子邮件地址|简单|
 |0933|最近的请求次数|简单|
 |0941|有效的山脉数组|简单|
-|[0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[有序数组的平方](ldaily/c0997)|简单|
+|[0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[有序数组的平方](daily)|简单|
 |0997|找到小镇的法官|简单|
-|[1002](https://leetcode-cn.com/problems/find-common-characters/)|[查找常用字符](daily/lc1002)|简单|
+|[1002](https://leetcode-cn.com/problems/find-common-characters/)|[查找常用字符](daily)|简单|
 |1038|从二叉搜索树到更大和树|中等|
 |1042|不邻接植花|简单|
 |1114|按序打印|简单|
