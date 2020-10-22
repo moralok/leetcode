@@ -109,6 +109,7 @@
 |0697|数组的度|简单|
 |0717|1比特与2比特字符|简单|
 |0747|至少是其他数字两倍的最大数|简单|
+|[0763](https://leetcode-cn.com/problems/partition-labels/)|[划分字母区间](daily)|中等|
 |0804|唯一摩尔斯密码词|简单|
 |0836|矩形重叠|简单|
 |[0844](https://leetcode-cn.com/problems/backspace-string-compare/)|[有序数组的平方](daily)|简单|
