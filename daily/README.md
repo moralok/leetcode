@@ -9,3 +9,4 @@
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|20201020|
 |[0925](https://leetcode-cn.com/problems/long-pressed-name/)|长按键入|简单|20201021|
 |[0763](https://leetcode-cn.com/problems/partition-labels/)|划分字母区间|中等|20201022|
+|[0234](https://leetcode-cn.com/problems/partition-labels/)|回文链表|简单|20201023|
