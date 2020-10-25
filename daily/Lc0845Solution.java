@@ -15,7 +15,7 @@ class Lc0845Solution {
                 continue;
             }
             res = Math.max(res, right - left + 1);
-            i = right + 1;
+            i = right;
         }
         return res;
     }
