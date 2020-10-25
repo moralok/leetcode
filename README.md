@@ -116,6 +116,7 @@
 |0804|唯一摩尔斯密码词|简单||
 |0836|矩形重叠|简单||
 |[0844](https://leetcode-cn.com/problems/backspace-string-compare/)|有序数组的平方|简单|[daily](daily)|
+|[0845](https://leetcode-cn.com/problems/longest-mountain-in-array/)|数组中的最长山脉|中等|[daily](daily)|
 |[0925](https://leetcode-cn.com/problems/long-pressed-name/)|长按键入|简单|[daily](daily)|
 |0929|独特的电子邮件地址|简单||
 |0933|最近的请求次数|简单||

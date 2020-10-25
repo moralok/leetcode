@@ -11,3 +11,4 @@
 |[0763](https://leetcode-cn.com/problems/partition-labels/)|划分字母区间|中等|20201022|
 |[0234](https://leetcode-cn.com/problems/palindrome-linked-list/)|回文链表|简单|20201023|
 |[1024](https://leetcode-cn.com/problems/video-stitching/)|视频拼接|中等|20201024|
+|[0845](https://leetcode-cn.com/problems/longest-mountain-in-array/)|数组中的最长山脉|中等|20201025|
