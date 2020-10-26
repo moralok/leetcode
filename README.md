@@ -67,6 +67,7 @@
 |[0234](https://leetcode-cn.com/problems/partition-labels/)|回文链表|简单|[daily](daily)|
 |0236|二叉树的最近公共祖先|中等||
 |0237|删除链表中的节点|简单||
+|[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|[top](top)|
 |0257|二叉树的所有路径|简单||
 |0268|缺失数字|简单||
 |0283|移动零|简单||

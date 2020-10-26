@@ -10,3 +10,4 @@
 |[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|阶乘后的零|简单|20201026|
 |[0198](https://leetcode-cn.com/problems/house-robber/)|打家劫舍|简单|20201026|
 |[0217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|简单|20201026|
+|[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201026|
