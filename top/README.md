@@ -12,3 +12,4 @@
 |[0217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|简单|20201026|
 |[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201026|
 |[0326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|简单|20201026|
+|[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|20201026|
