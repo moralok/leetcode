@@ -53,6 +53,7 @@
 |0167|两数之和2 - 输入有序数组|简单||
 |0169|多数元素|简单||
 |[0171](https://leetcode-cn.com/problems/excel-sheet-column-number/)|Excel表列序号|简单|[top](top)|
+|[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|阶乘后的零|简单|[top](top)|
 |0179|最大数|中等||
 |0202|快乐数|简单||
 |0203|移除链表元素|简单||
