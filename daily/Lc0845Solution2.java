@@ -1,3 +1,5 @@
+package daily;
+
 class Lc0845Solution2 {
     public int longestMountain(int[] A) {
         // 有些细节没注意

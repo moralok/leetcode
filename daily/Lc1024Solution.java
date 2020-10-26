@@ -1,5 +1,7 @@
 package daily;
 
+import java.util.Arrays;
+
 public class Lc1024Solution {
     
     public int videoStitching(int[][] clips, int T) {

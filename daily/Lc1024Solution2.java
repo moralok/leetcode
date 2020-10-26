@@ -1,6 +1,6 @@
 package daily;
 
-public class Lc1024Solution {
+public class Lc1024Solution2 {
     
     public int videoStitching(int[][] clips, int T) {
         int[] maxn = new int[T];

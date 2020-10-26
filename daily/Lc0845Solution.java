@@ -1,3 +1,5 @@
+package daily;
+
 class Lc0845Solution {
     public int longestMountain(int[] A) {
         // 中心扩散效率差这么多吗
