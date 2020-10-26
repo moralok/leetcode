@@ -82,6 +82,7 @@
 |[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|[top](top)|
 |0374|猜数字大小|简单||
 |0382|链表随机节点|中等||
+|[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|[top](top)|
 |0392|判断子序列|简单||
 |0394|字符串解码|中等||
 |0398|随机数索引|中等||

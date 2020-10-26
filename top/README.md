@@ -13,3 +13,4 @@
 |[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201026|
 |[0326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|简单|20201026|
 |[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|20201026|
+|[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|20201026|
