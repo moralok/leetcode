@@ -55,6 +55,7 @@
 |[0171](https://leetcode-cn.com/problems/excel-sheet-column-number/)|Excel表列序号|简单|[top](top)|
 |[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|阶乘后的零|简单|[top](top)|
 |0179|最大数|中等||
+|[0190](https://leetcode-cn.com/problems/reverse-bits/)|颠倒二进制位|简单|[top](top)|
 |[0198](https://leetcode-cn.com/problems/house-robber/)|打家劫舍|简单|[top](top)|
 |0202|快乐数|简单||
 |0203|移除链表元素|简单||

@@ -8,6 +8,7 @@
 |[0005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|20201023|
 |[0171](https://leetcode-cn.com/problems/excel-sheet-column-number/)|Excel表列序号|简单|20201026|
 |[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|阶乘后的零|简单|20201026|
+|[0190](https://leetcode-cn.com/problems/reverse-bits/)|颠倒二进制位|简单|20201027|
 |[0198](https://leetcode-cn.com/problems/house-robber/)|打家劫舍|简单|20201026|
 |[0217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|简单|20201026|
 |[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201026|
