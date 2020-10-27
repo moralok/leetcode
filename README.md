@@ -45,7 +45,7 @@
 |0136|只出现一次的数字|简单||
 |0141|环形链表|简单||
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|[daily](daily)|
-|0144|二叉树的前序遍历|中等||
+|[0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|中等|[daily](daily)|
 |0145|二叉树的后序遍历|困难||
 |0148|排序链表|中等||是|
 |0155|最小栈|简单||
