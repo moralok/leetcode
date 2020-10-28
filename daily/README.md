@@ -14,3 +14,4 @@
 |[0845](https://leetcode-cn.com/problems/longest-mountain-in-array/)|数组中的最长山脉|中等|20201025|
 |[1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|有多少小于当前数字的数字|简单|20201026|
 |[0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|中等|20201027|
+|[1207](https://leetcode-cn.com/problems/unique-number-of-occurrences/)|独一无二的出现次数|简单|20201028|
