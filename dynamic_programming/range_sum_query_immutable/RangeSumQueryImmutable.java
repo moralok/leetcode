@@ -1,10 +1,10 @@
 package dynamic_programming.range_sum_query_immutable;
 
-class NumArray {
+class RangeSumQueryImmutable {
 
     private int[] nums;
 
-    public NumArray(int[] nums) {
+    public RangeSumQueryImmutable(int[] nums) {
         this.nums = nums;
     }
     
