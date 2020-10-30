@@ -42,7 +42,7 @@
 |0121|买卖股票的最佳时机|简单||
 |0122|买卖股票的最佳时机2|简单||
 |0125|验证回文串|简单||
-|[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|求根到叶子节点数字之和|中等|daily](daily)|
+|[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|求根到叶子节点数字之和|中等|[daily](daily)|
 |0136|只出现一次的数字|简单||
 |0141|环形链表|简单||
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|[daily](daily)|
@@ -97,7 +97,7 @@
 |0447|回旋镖的数量|简单||
 |0448|找到所有数组中消失的数字|简单||
 |0459|重复的子字符串|简单||
-|0463|岛屿的周长|简单||
+|[0463](https://leetcode-cn.com/problems/island-perimeter/)|岛屿的周长|简单|[daily](daily)|
 |0475|供暖器|简单||
 |0496|下一个更大元素 I|简单||
 |0500|键盘行|简单||
