@@ -16,3 +16,4 @@
 |[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|20201026|
 |[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|20201026|
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|20201026|
+|[0191](https://leetcode-cn.com/problems/number-of-1-bits/)|位1的个数|简单|20201030|
