@@ -79,7 +79,7 @@
 |[0326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|简单|[top](top)|
 |0345|反转字符串中的元音字母|简单||
 |0346|数据流中的移动平均值|简单||
-|0349|两个数组的交集|简单||
+|[0349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集|简单|[daily](daily)|
 |0350|两个数组的交集 II|简单||
 |0367|有效的完全平方数|简单||
 |[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|[top](top)|
