@@ -18,3 +18,4 @@
 |[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|求根到叶子节点数字之和|中等|20201029|
 |[0463](https://leetcode-cn.com/problems/island-perimeter/)|岛屿的周长|简单|20201030|
 |[0349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集|简单|20201102|
+|[0941](https://leetcode-cn.com/problems/valid-mountain-array/)|有效的山脉数组|简单|20201103|
