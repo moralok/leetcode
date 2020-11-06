@@ -19,3 +19,4 @@
 |[0463](https://leetcode-cn.com/problems/island-perimeter/)|岛屿的周长|简单|20201030|
 |[0349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集|简单|20201102|
 |[0941](https://leetcode-cn.com/problems/valid-mountain-array/)|有效的山脉数组|简单|20201103|
+|[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|20201106|
