@@ -6,6 +6,7 @@
 |[0002](https://leetcode-cn.com/problems/add-two-numbers/)|两数相加|中等|20201016|
 |[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|20201016|
 |[0005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|20201023|
+|[0008](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数 (atoi)|中等|20201107|
 |[0013](https://leetcode-cn.com/problems/roman-to-integer/)|罗马数字转整数|简单|20201104|
 |[0171](https://leetcode-cn.com/problems/excel-sheet-column-number/)|Excel表列序号|简单|20201026|
 |[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|阶乘后的零|简单|20201026|
