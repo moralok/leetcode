@@ -41,7 +41,7 @@
 |0117|填充每个节点的下一个右侧节点指针 II|中等||
 |0118|杨辉三角|简单||
 |0121|买卖股票的最佳时机|简单||
-|0122|买卖股票的最佳时机2|简单||
+|[0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|简单|[daily](daily)|
 |0125|验证回文串|简单||
 |[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|求根到叶子节点数字之和|中等|[daily](daily)|
 |0136|只出现一次的数字|简单||
