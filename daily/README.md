@@ -21,3 +21,4 @@
 |[0941](https://leetcode-cn.com/problems/valid-mountain-array/)|有效的山脉数组|简单|20201103|
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|20201106|
 |[0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|简单|20201108|
+|[0973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|最接近原点的 K 个点|中等|20201109|

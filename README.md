@@ -134,6 +134,7 @@
 |0929|独特的电子邮件地址|简单||
 |0933|最近的请求次数|简单||
 |[0941](https://leetcode-cn.com/problems/valid-mountain-array/)|有效的山脉数组|简单|[daily](daily)|
+|[0973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|最接近原点的 K 个点|中等|[daily](daily)|
 |[0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|有序数组的平方|简单|[daily](daily)|
 |0997|找到小镇的法官|简单||
 |[1002](https://leetcode-cn.com/problems/find-common-characters/)|查找常用字符|简单|[daily](daily)|
