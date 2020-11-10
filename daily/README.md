@@ -22,3 +22,4 @@
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|20201106|
 |[0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|简单|20201108|
 |[0973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|最接近原点的 K 个点|中等|20201109|
+|[0031](https://leetcode-cn.com/problems/next-permutation/)|下一个排列|中等|20201110|

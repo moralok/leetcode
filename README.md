@@ -7,13 +7,14 @@
 |[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top)|
 |[0005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[top](top)|
 |[0008](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数 (atoi)|中等|[top](top)|
-|[0013](https://leetcode-cn.com/problems/roman-to-integer/)|罗马数字转整数|简单|[top](top)|
+|[0013](https://leetcode-cn.com/problems/roman-to-integer/)|罗马数字转整数|简单|[daily](daily)|
 |0014|最长公共前缀|简单||
 |0020|有效的括号|简单||
 |0021|合并两个有序链表|简单||
 |0026|删除排序数组中的重复项|简单||
 |0027|移除元素|简单||
 |0028|实现 strStr()|简单||
+|[0031](https://leetcode-cn.com/problems/next-permutation/)|下一个排列|中等|20201110|
 |0035|搜索插入位置|简单||
 |0038|外观数列|简单||
 |0053|最大子序和|简单||
