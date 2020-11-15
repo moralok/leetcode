@@ -92,6 +92,7 @@
 |0392|判断子序列|简单||
 |0394|字符串解码|中等||
 |0398|随机数索引|中等||
+|[0402](https://leetcode-cn.com/problems/remove-k-digits/)|移掉K位数字|中等|[daily](daily)|
 |0404|左叶子之和|简单||
 |0409|最长回文串|简单||
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|[top](top)|
