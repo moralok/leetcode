@@ -94,6 +94,7 @@
 |0398|随机数索引|中等||
 |[0402](https://leetcode-cn.com/problems/remove-k-digits/)|移掉K位数字|中等|[daily](daily)|
 |0404|左叶子之和|简单||
+|[0406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|根据身高重建队列|中等|[daily](daily)|
 |0409|最长回文串|简单||
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|[top](top)|
 |0415|字符串相加|简单||
