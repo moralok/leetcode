@@ -145,6 +145,7 @@
 |[1002](https://leetcode-cn.com/problems/find-common-characters/)|查找常用字符|简单|[daily](daily)|
 |[1207](https://leetcode-cn.com/problems/unique-number-of-occurrences/)|独一无二的出现次数|简单|[daily](daily)|
 |[1024](https://leetcode-cn.com/problems/video-stitching/)|视频拼接|中等|[daily](daily)|
+|[1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)|距离顺序排列矩阵单元格|简单|[daily](daily)|
 |1038|从二叉搜索树到更大和树|中等||
 |1042|不邻接植花|简单||
 |1114|按序打印|简单||
