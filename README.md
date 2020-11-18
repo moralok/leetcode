@@ -46,6 +46,7 @@
 |[0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|简单|[daily](daily)|
 |0125|验证回文串|简单||
 |[0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|求根到叶子节点数字之和|中等|[daily](daily)|
+|[0134](https://leetcode-cn.com/problems/gas-station/)|加油站|中等|[daily](daily)|
 |0136|只出现一次的数字|简单||
 |0141|环形链表|简单||
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|[daily](daily)|
