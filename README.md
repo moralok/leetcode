@@ -77,7 +77,7 @@
 |[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|[top](top)|
 |0257|二叉树的所有路径|简单||
 |0268|缺失数字|简单||
-|0283|移动零|简单||
+|[0283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|简单|[daily](daily)|
 |0297|二叉树的序列化与反序列化|困难||
 |0303|区域和检索 - 数组不可变|简单||
 |[0326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|简单|[top](top)|
