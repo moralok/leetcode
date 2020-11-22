@@ -32,3 +32,4 @@
 |[0283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|简单|20201119|
 |[0147](https://leetcode-cn.com/problems/insertion-sort-list/)|对链表进行插入排序|中等|20201120|
 |[0148](https://leetcode-cn.com/problems/sort-list/)|排序链表|中等|20201121|
+|[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201122|
