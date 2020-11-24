@@ -70,6 +70,7 @@
 |0204|计数质数|简单||
 |0206|反转链表|简单||
 |[0217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|简单|[top](top)|
+|[0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|完全二叉树的节点个数|中等|[daily](daily)|
 |0225|用队列实现栈|简单||
 |0226|翻转二叉树|简单||
 |0232|用栈实现队列|简单||

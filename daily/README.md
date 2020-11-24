@@ -34,3 +34,4 @@
 |[0148](https://leetcode-cn.com/problems/sort-list/)|排序链表|中等|20201121|
 |[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|20201122|
 |[0452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)|用最少数量的箭引爆气球|中等|20201123|
+|[0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|完全二叉树的节点个数|中等|20201124|
