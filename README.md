@@ -158,6 +158,7 @@
 |[1122](https://leetcode-cn.com/problems/relative-sort-array/)|数组的相对排序|简单|[daily](daily)|
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|[daily](daily)|
 |[1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|有多少小于当前数字的数字|简单|[daily](daily)|
+|[1370](https://leetcode-cn.com/problems/increasing-decreasing-string/)|上升下降字符串|简单|[daily](daily)|
 |1373|二叉搜索子树的最大键值和|困难||
 |1382|将二叉搜索树变平衡|中等||
 
