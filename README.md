@@ -97,6 +97,7 @@
 |[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|[top](top)|
 |0392|判断子序列|简单||
 |0394|字符串解码|中等||
+|[0395](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|至少有K个重复字符的最长子串|中等|[sliding window](sliding_window)|
 |0398|随机数索引|中等||
 |[0402](https://leetcode-cn.com/problems/remove-k-digits/)|移掉K位数字|中等|[daily](daily)|
 |0404|左叶子之和|简单||
