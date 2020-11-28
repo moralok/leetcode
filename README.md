@@ -4,7 +4,7 @@
 |----|----|----|----|
 |[0001](https://leetcode-cn.com/problems/two-sum/)|两数之和|简单|[top](top)|
 |[0002](https://leetcode-cn.com/problems/add-two-numbers/)|两数相加|中等|[top](top)|
-|[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top) [sliding window](sliding_window)|
+|[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top):[sliding window](sliding_window)|
 |[0005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[top](top)|
 |[0008](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数 (atoi)|中等|[top](top)|
 |[0011](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[top](top)|
@@ -25,6 +25,7 @@
 |0067|二进制求和|简单||
 |0069|x 的平方根|简单||
 |0070|爬楼梯|简单||
+|[0076](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|困难|[sliding window](sliding_window)|
 |0083|删除排序链表中的重复元素|简单||
 |0088|合并两个有序数组|简单||
 |0094|二叉树的中序遍历|中等||
@@ -78,7 +79,7 @@
 |[0234](https://leetcode-cn.com/problems/partition-labels/)|回文链表|简单|[daily](daily)|
 |0236|二叉树的最近公共祖先|中等||
 |0237|删除链表中的节点|简单||
-|[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|[top](top) [daily](daily)|
+|[0242](https://leetcode-cn.com/problems/valid-anagram/)|有效的字母异位词|简单|[top](top):[daily](daily)|
 |0257|二叉树的所有路径|简单||
 |0268|缺失数字|简单||
 |[0283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|简单|[daily](daily)|
