@@ -4,7 +4,7 @@
 |----|----|----|----|
 |[0001](https://leetcode-cn.com/problems/two-sum/)|两数之和|简单|[top](top)|
 |[0002](https://leetcode-cn.com/problems/add-two-numbers/)|两数相加|中等|[top](top)|
-|[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top)|
+|[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top) [sliding window](sliding_window)|
 |[0005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|中等|[top](top)|
 |[0008](https://leetcode-cn.com/problems/string-to-integer-atoi/)|字符串转换整数 (atoi)|中等|[top](top)|
 |[0011](https://leetcode-cn.com/problems/container-with-most-water/)|盛最多水的容器|中等|[top](top)|
