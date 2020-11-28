@@ -1,6 +1,6 @@
 package sliding_window;
 
-public class Lc0425Solution {
+public class Lc0424Solution {
     public int characterReplacement(String s, int k) {
         if (s == null || s.length() == 0) {
             return 0;

@@ -107,7 +107,7 @@
 |0409|最长回文串|简单||
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|[top](top)|
 |0415|字符串相加|简单||
-|[0425](https://leetcode-cn.com/tag/sliding-window/)|替换后的最长重复字符|中等|[sliding window](sliding_window)|
+|[0424](https://leetcode-cn.com/tag/sliding-window/)|替换后的最长重复字符|中等|[sliding window](sliding_window)|
 |0437|路径总和 III|简单||
 |[0438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|中等|[sliding window](sliding_window)|
 |0441|排列硬币|简单||
@@ -128,6 +128,7 @@
 |0543|二叉树的直径|简单||
 |0557|反转字符串中的单词 III|简单||
 |0561|数组拆分1|简单||
+|[0567](https://leetcode-cn.com/problems/permutation-in-string/)|字符串的排列|中等|[sliding window](sliding_window)|
 |0617|合并二叉树|简单||
 |0628|三个数的最大乘积|简单||
 |0637|二叉树的层平均值|简单||
