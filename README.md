@@ -107,6 +107,7 @@
 |0409|最长回文串|简单||
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|[top](top)|
 |0415|字符串相加|简单||
+|[0425](https://leetcode-cn.com/tag/sliding-window/)|替换后的最长重复字符|中等|[sliding window](sliding_window)|
 |0437|路径总和 III|简单||
 |0441|排列硬币|简单||
 |0447|回旋镖的数量|简单||
