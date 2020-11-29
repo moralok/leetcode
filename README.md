@@ -25,6 +25,7 @@
 |0067|二进制求和|简单||
 |0069|x 的平方根|简单||
 |[0070](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|简单|[dynamic programming](dynamic_programming)|
+|[0072](https://leetcode-cn.com/problems/edit-distance/)|编辑距离|困难|[dynamic programming](dynamic_programming)|
 |[0076](https://leetcode-cn.com/problems/minimum-window-substring/)|最小覆盖子串|困难|[sliding window](sliding_window)|
 |0083|删除排序链表中的重复元素|简单||
 |0088|合并两个有序数组|简单||

@@ -3,6 +3,7 @@
 |----|----|----|----|
 |[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|是｜
 |[0070](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|简单|是|
+|[0072](https://leetcode-cn.com/problems/edit-distance/)|编辑距离|困难|是|
 |0121|买卖股票的最佳时机|简单|否｜
 |0303|区域和检索 - 数组不可变|简单|
 |[0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长上升子序列|中等|是|
