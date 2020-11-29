@@ -4,7 +4,8 @@
 |[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|是｜
 |[0070](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|简单|是|
 |[0072](https://leetcode-cn.com/problems/edit-distance/)|编辑距离|困难|是|
-|0121|买卖股票的最佳时机|简单|否｜
+|0121|买卖股票的最佳时机|简单|否|
+|[0064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|中等|是|
 |0303|区域和检索 - 数组不可变|简单|
 |[0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长上升子序列|中等|是|
 |[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|是|
@@ -23,3 +24,7 @@
 #### 双串
 1. 最常见的状态转移形式：推导 dp[i][j] 时，dp[i][j] 仅与 dp[i-1][j], dp[i][j-1], dp[i-1][j-1]
     - 1143. 最长公共子序列
+
+#### 矩阵
+1. 同样有单串中的两种情况，即转移时要考虑 O(1)O(1) 个小规模子问题，和转移时要考虑 O(n)O(n) 个子问题
+    - 64. 最小路径和

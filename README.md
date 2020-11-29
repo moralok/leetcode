@@ -21,6 +21,7 @@
 |[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[dynamic programming](dynamic_programming)|
 |0056|合并区间|中等||
 |0058|最后一个单词的长度|简单||
+|[0064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|中等|[dynamic programming](dynamic_programming)|
 |0066|加一|简单||
 |0067|二进制求和|简单||
 |0069|x 的平方根|简单||
