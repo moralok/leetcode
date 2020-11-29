@@ -18,7 +18,7 @@
 |[0031](https://leetcode-cn.com/problems/next-permutation/)|下一个排列|中等|[daily](daily)|
 |0035|搜索插入位置|简单||
 |0038|外观数列|简单||
-|0053|最大子序和|简单||
+|[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[dynamic programming](dynamic_programming)|
 |0056|合并区间|中等||
 |0058|最后一个单词的长度|简单||
 |0066|加一|简单||
