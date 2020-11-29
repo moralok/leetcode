@@ -164,6 +164,7 @@
 |1038|从二叉搜索树到更大和树|中等||
 |1042|不邻接植花|简单||
 |1114|按序打印|简单||
+|[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|[dynamic programming](dynamic_programming)|
 |1214|查找两棵二叉搜索树之和|中等||
 |[1122](https://leetcode-cn.com/problems/relative-sort-array/)|数组的相对排序|简单|[daily](daily)|
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|[daily](daily)|
