@@ -11,6 +11,7 @@
 |[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|是|
 |[0560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|和为K的子数组|中等|是|
 |[0437](https://leetcode-cn.com/problems/path-sum-iii/)|路径总和 III|中等|是|
+|[0370](https://leetcode-cn.com/problems/range-addition/)|区间加法|中等|是|
 
 ## 总结
 用动态规划解决问题的过程有以下几个关键点：状态定义，状态的转移，初始化和边界条件。
@@ -46,3 +47,8 @@
     - 327. 区间和的个数
 4. 第四问：一棵树上有没有某个路径，其和为 target。
     - 437. 路径总和 III
+
+#### 运算推广
+
+#### 差分
+差分序列的好处是如果要对原序列的一个区间 [l, r] 上所有值加 val，原序列上要操作 r-l+1 次 (a[l .. r] + val)，在差分序列上只需要操作 2 次(b[l] + val, b[r+1] - val)。如果这种区间操作需要很多次，最后的查询只有一次的话，就非常适合在差分序列上操作。
