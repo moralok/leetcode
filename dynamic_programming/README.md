@@ -7,6 +7,7 @@
 |0121|买卖股票的最佳时机|简单|否|
 |[0064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|中等|是|
 |[0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索 - 数组不可变|简单|是|
+|[0516](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|最长回文子序列|中等|是|
 |[0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长上升子序列|中等|是|
 |[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|是|
 |[0560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|和为K的子数组|中等|是|
@@ -52,3 +53,10 @@
 
 #### 差分
 差分序列的好处是如果要对原序列的一个区间 [l, r] 上所有值加 val，原序列上要操作 r-l+1 次 (a[l .. r] + val)，在差分序列上只需要操作 2 次(b[l] + val, b[r+1] - val)。如果这种区间操作需要很多次，最后的查询只有一次的话，就非常适合在差分序列上操作。
+
+
+### 区间动态规划
+
+1. dp[i][j] 仅与常数个更小规模子问题有关
+
+2. dp[i][j] 与 O(n) 个更小规模子问题有关

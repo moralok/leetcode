@@ -125,6 +125,7 @@
 |0496|下一个更大元素 I|简单||
 |0500|键盘行|简单||
 |0501|二叉搜索树中的众数|简单||
+|[0516](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)|最长回文子序列|中等|[dynamic programming](dynamic_programming)|
 |0521|最长特殊序列 Ⅰ|简单||
 |0530|二叉搜索树的最小绝对差|简单||
 |0538|把二叉搜索树转换为累加树|简单||
