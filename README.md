@@ -18,7 +18,7 @@
 |[0031](https://leetcode-cn.com/problems/next-permutation/)|下一个排列|中等|[daily](daily)|
 |0035|搜索插入位置|简单||
 |0038|外观数列|简单||
-|[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[dynamic programming](dynamic_programming)|
+|[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[array](array):[dynamic programming](dynamic_programming)|
 |0056|合并区间|中等||
 |0058|最后一个单词的长度|简单||
 |[0064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|中等|[dynamic programming](dynamic_programming)|
@@ -111,7 +111,7 @@
 |[0412](https://leetcode-cn.com/problems/fizz-buzz/)|Fizz Buzz|简单|[top](top)|
 |0415|字符串相加|简单||
 |[0424](https://leetcode-cn.com/tag/sliding-window/)|替换后的最长重复字符|中等|[sliding window](sliding_window)|
-|0437|路径总和 III|简单||
+|[0437](https://leetcode-cn.com/problems/path-sum-iii/)|路径总和 III|中等|[tree](tree):[dynamic programming](dynamic_programming)|
 |[0438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|找到字符串中所有字母异位词|中等|[sliding window](sliding_window)|
 |0441|排列硬币|简单||
 |0447|回旋镖的数量|简单||
@@ -167,7 +167,7 @@
 |1038|从二叉搜索树到更大和树|中等||
 |1042|不邻接植花|简单||
 |1114|按序打印|简单||
-|[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|[dynamic programming](dynamic_programming)|
+|[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|[string](string):[dynamic programming](dynamic_programming)|
 |1214|查找两棵二叉搜索树之和|中等||
 |[1122](https://leetcode-cn.com/problems/relative-sort-array/)|数组的相对排序|简单|[daily](daily)|
 |[1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)|根据数字二进制下 1 的数目排序|简单|[daily](daily)|
