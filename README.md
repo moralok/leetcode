@@ -130,6 +130,7 @@
 |0541|反转字符串 II|简单||
 |0543|二叉树的直径|简单||
 |0557|反转字符串中的单词 III|简单||
+|[0560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|和为K的子数组|中等|[dynamic programming](dynamic_programming)|
 |0561|数组拆分1|简单||
 |[0567](https://leetcode-cn.com/problems/permutation-in-string/)|字符串的排列|中等|[sliding window](sliding_window)|
 |0617|合并二叉树|简单||

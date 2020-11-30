@@ -9,6 +9,7 @@
 |[0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索 - 数组不可变|简单|是|
 |[0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长上升子序列|中等|是|
 |[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|是|
+|[0560](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|和为K的子数组|中等|是|
 
 ## 总结
 用动态规划解决问题的过程有以下几个关键点：状态定义，状态的转移，初始化和边界条件。
@@ -35,3 +36,12 @@
 #### 求区间和
 1. 如果查询次数很多，当新查询来时，此前的查询计算的中间结果很多是可以直接用的，新的查询不必重新枚举
     - 303. 区域和检索 - 数组不可变
+
+#### 数据结构维护前缀和
+1. 第一问：a_{0}, a_{1}, ..., a_{n-1}上有没有一个区间，其和为 target。
+2. 第二问：a_{0}, a_{1}, ..., a_{n-1}上有多少个区间，其和为 target。
+    - 560. 和为 K 的子数组
+3. 第三问：a_{0}, a_{1}, ..., a_{n-1}上有没有一个区间，其和大于/小于 target。
+    - 327. 区间和的个数
+4. 第四问：一棵树上有没有某个路径，其和为 target。
+    - 437. 路径总和 III
