@@ -88,7 +88,7 @@
 |[0283](https://leetcode-cn.com/problems/move-zeroes/)|移动零|简单|[daily](daily)|
 |0297|二叉树的序列化与反序列化|困难||
 |[0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|最长上升子序列|中等|[dynamic programming](dynamic_programming)|
-|0303|区域和检索 - 数组不可变|简单||
+|[0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)|区域和检索 - 数组不可变|简单|[dynamic programming](dynamic_programming)|
 |[0326](https://leetcode-cn.com/problems/power-of-three/)|3的幂|简单|[top](top)|
 |[0340](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)|至多包含 K 个不同字符的最长子串|中等|[sliding window](sliding_window)|
 |0345|反转字符串中的元音字母|简单||
