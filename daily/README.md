@@ -38,3 +38,4 @@
 |[1370](https://leetcode-cn.com/problems/increasing-decreasing-string/)|上升下降字符串|简单|20201125|
 |[0164](https://leetcode-cn.com/problems/maximum-gap/)|最大间距|困难|20201126|
 |[0454](https://leetcode-cn.com/problems/4sum-ii/)|四数相加 II|中等|20201127|
+|[0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一个和最后一个位置|中等|20201201|

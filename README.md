@@ -16,6 +16,7 @@
 |0027|移除元素|简单||
 |0028|实现 strStr()|简单||
 |[0031](https://leetcode-cn.com/problems/next-permutation/)|下一个排列|中等|[daily](daily)|
+|[0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一个和最后一个位置|中等|[daily](daily)|
 |0035|搜索插入位置|简单||
 |0038|外观数列|简单||
 |[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[array](array):[dynamic programming](dynamic_programming)|
