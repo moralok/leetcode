@@ -73,7 +73,7 @@
 |[0198](https://leetcode-cn.com/problems/house-robber/)|打家劫舍|简单|[top](top)|
 |0202|快乐数|简单||
 |0203|移除链表元素|简单||
-|0204|计数质数|简单||
+|[0204](https://leetcode-cn.com/problems/count-primes/)|计数质数|简单|[hash table](hash_table):[daily](daily)|
 |0206|反转链表|简单||
 |[0217](https://leetcode-cn.com/problems/contains-duplicate/)|存在重复元素|简单|[top](top)|
 |[0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|完全二叉树的节点个数|中等|[daily](daily)|
