@@ -56,9 +56,9 @@
 |[0143](https://leetcode-cn.com/problems/reorder-list/)|重排链表|中等|[daily](daily)|
 |[0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|二叉树的前序遍历|中等|[daily](daily)|
 |0145|二叉树的后序遍历|困难||
+|[0146](https://leetcode-cn.com/problems/lru-cache/)|LRU 缓存机制|中等|[top](top)|
 |[0147](https://leetcode-cn.com/problems/insertion-sort-list/)|对链表进行插入排序|中等|[daily](daily)|
 |[0148](https://leetcode-cn.com/problems/sort-list/)|排序链表|中等|[daily](daily)|
-|0148|排序链表|中等||是|
 |0155|最小栈|简单||
 |[0159](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)|至多包含两个不同字符的最长子串|中等|[sliding window](sliding_window)|
 |0160|相交链表|简单||
