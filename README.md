@@ -46,7 +46,7 @@
 |0114|二叉树展开为链表|中等||
 |[0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|中等|[daily](daily)|
 |0117|填充每个节点的下一个右侧节点指针 II|中等||
-|0118|杨辉三角|简单||
+|[0118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|简单|[array](array):[daily](daily)|
 |0121|买卖股票的最佳时机|简单||
 |[0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|简单|[daily](daily)|
 |0125|验证回文串|简单||
