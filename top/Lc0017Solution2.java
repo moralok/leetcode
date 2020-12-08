@@ -3,7 +3,7 @@ package top;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Lc017Solution2 {
+public class Lc0017Solution2 {
     public boolean containsDuplicate(int[] nums) {
         // O(n) O(n)
         Set<Integer> set = new HashSet<>();

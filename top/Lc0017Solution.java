@@ -2,7 +2,7 @@ package top;
 
 import java.util.Arrays;
 
-public class Lc017Solution {
+public class Lc0017Solution {
     public boolean containsDuplicate(int[] nums) {
         // O(nlog(n)) O(1)
         Arrays.sort(nums);
