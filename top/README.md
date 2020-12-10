@@ -24,3 +24,4 @@
 |[0015](https://leetcode-cn.com/problems/3sum/)|三数之和|中等|20201205|
 |[0079](https://leetcode-cn.com/problems/word-search/)|单词搜索|中等|20201208|
 |[0253](https://leetcode-cn.com/problems/meeting-rooms-ii/)|会议室 II|中等|20201209|
+|[0046](https://leetcode-cn.com/problems/permutations/)|全排列|中等|20201210|
