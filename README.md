@@ -22,6 +22,7 @@
 |0038|外观数列|简单||
 |[0046](https://leetcode-cn.com/problems/permutations/)|全排列|中等|[top](top)|
 |[0053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|简单|[array](array):[dynamic programming](dynamic_programming)|
+|[0054](https://leetcode-cn.com/problems/spiral-matrix/)|螺旋矩阵|中等|[top](top)|
 |0056|合并区间|中等||
 |0058|最后一个单词的长度|简单||
 |[0064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|中等|[dynamic programming](dynamic_programming)|
