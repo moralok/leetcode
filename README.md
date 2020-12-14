@@ -99,6 +99,7 @@
 |[0340](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)|至多包含 K 个不同字符的最长子串|中等|[sliding window](sliding_window)|
 |0345|反转字符串中的元音字母|简单||
 |0346|数据流中的移动平均值|简单||
+|[0347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|前 K 个高频元素|中等|[top](top)|
 |[0349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|两个数组的交集|简单|[daily](daily)|
 |0350|两个数组的交集 II|简单||
 |0367|有效的完全平方数|简单||
