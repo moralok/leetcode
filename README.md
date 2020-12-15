@@ -106,6 +106,7 @@
 |[0370](https://leetcode-cn.com/problems/range-addition/)|区间加法|中等|[dynamic programming](dynamic_programming)|
 |[0371](https://leetcode-cn.com/problems/sum-of-two-integers/)|两整数之和|简单|[top](top)|
 |0374|猜数字大小|简单||
+|[0378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|有序矩阵中第K小的元素|中等|[top](top)|
 |0382|链表随机节点|中等||
 |[0384](https://leetcode-cn.com/problems/shuffle-an-array/)|打乱数组|中等|[top](top)|
 |[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|字符串中的第一个唯一字符|简单|[top](top)|
