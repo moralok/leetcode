@@ -29,17 +29,6 @@ public class Lc0912SolutionHeap {
         }
     }
 
-    private void swim(int[] nums, int i) {
-        while (i > 0) {
-            int j = (i - 1) / 2;
-            if (nums[i] <= nums[j]) {
-                break;
-            }
-            swap(nums, i, j);
-            i = j;
-        }
-    }
-
     private void heapify(int[] nums, int size) {
         int n = size - 2 / 2;
         while (n >= 0) {
