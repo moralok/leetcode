@@ -28,8 +28,7 @@ public class Lc0912SolutionQuick {
         int val = nums[left];
         while (j <= right) {
             if (nums[j] <= val) {
-                swap(nums, i, j);
-                i++;
+                swap(nums, i++, j);
             }
             j++;
         }
