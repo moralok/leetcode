@@ -1,7 +1,7 @@
 # leetcode
 
 |题号|题目|难度|tag|
-|----|----|---|----|
+|----|----|--|----|
 |[0001](https://leetcode-cn.com/problems/two-sum/)|两数之和|简单|[top](top)|
 |[0002](https://leetcode-cn.com/problems/add-two-numbers/)|两数相加|中等|[top](top)|
 |[0003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|无重复字符的最长子串|中等|[top](top):[sliding window](sliding_window)|
@@ -179,6 +179,7 @@
 |1042|不邻接植花|简单||
 |1114|按序打印|简单||
 |[1143](https://leetcode-cn.com/problems/longest-common-subsequence/)|最长公共子序列|中等|[string](string):[dynamic programming](dynamic_programming)|
+|[1154](https://leetcode.cn/problems/day-of-the-year/solutions/)|一年中的第几天|简单|[daily](daily)|
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|一周中的第几天|简单|[daily](daily)|
 |1214|查找两棵二叉搜索树之和|中等||
 |[1122](https://leetcode-cn.com/problems/relative-sort-array/)|数组的相对排序|简单|[daily](daily)|
