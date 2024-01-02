@@ -130,6 +130,7 @@
 |[0454](https://leetcode-cn.com/problems/4sum-ii/)|四数相加 II|中等|[daily](daily)|
 |0459|重复的子字符串|简单||
 |[0463](https://leetcode-cn.com/problems/island-perimeter/)|岛屿的周长|简单|[daily](daily)|
+|[0466](https://leetcode.cn/problems/count-the-repetitions/)|统计重复个数|困难|[daily](daily)|
 |0475|供暖器|简单||
 |0496|下一个更大元素 I|简单||
 |0500|键盘行|简单||
