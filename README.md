@@ -190,6 +190,7 @@
 |1373|二叉搜索子树的最大键值和|困难||
 |1382|将二叉搜索树变平衡|中等||
 |[1599](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel)|经营摩天轮的最大利润 |中等|[daily](daily)|
+|[2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)|从链表中移除节点|中等|[daily](daily)|
 |[2706](https://leetcode.cn/problems/buy-two-chocolates/)|购买两块巧克力|简单|[daily](daily)|
 
 # [剑指 offer](lcof)
