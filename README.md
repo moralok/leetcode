@@ -194,6 +194,7 @@
 |[2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)|被列覆盖的最多行数|中等|[daily](daily)|
 |[2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)|从链表中移除节点|中等|[daily](daily)|
 |[2706](https://leetcode.cn/problems/buy-two-chocolates/)|购买两块巧克力|简单|[daily](daily)|
+|[2807](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/)|在链表中插入最大公约数|中等|[daily](daily)|
 
 # [剑指 offer](lcof)
 
