@@ -1,5 +1,7 @@
 package linked_list.linked_list_cycle;
 
+import common.ListNode;
+
 public class LinkedListCycle2 {
     public boolean hasCycle(ListNode head) {
         if (head == null) {

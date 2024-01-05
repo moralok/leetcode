@@ -1,5 +1,7 @@
 package pathway.week1.reverse_linked_list;
 
+import common.ListNode;
+
 public class Solution1 {
 
     public ListNode reverseList(ListNode head) {

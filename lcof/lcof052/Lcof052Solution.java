@@ -1,5 +1,7 @@
 package lcof.lcof052;
 
+import common.ListNode;
+
 public class Lcof052Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode p = headA;

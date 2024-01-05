@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 

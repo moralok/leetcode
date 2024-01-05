@@ -1,5 +1,7 @@
 package linked_list.palindrome_linked_list;
 
+import common.ListNode;
+
 public class PalindromeLinkedList2 {
 
     private ListNode front;

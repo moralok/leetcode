@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 public class Lc0143Solution2 {
 
     public void reorderList(ListNode head) {

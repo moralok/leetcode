@@ -1,5 +1,7 @@
 package lcof.lcof006;
 
+import common.ListNode;
+
 import java.util.LinkedList;
 import java.util.List;
 

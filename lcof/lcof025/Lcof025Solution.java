@@ -1,5 +1,7 @@
 package lcof.lcof025;
 
+import common.ListNode;
+
 public class Lcof025Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);

@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 public class Lc0147Solution {
     public ListNode insertionSortList(ListNode head) {
         // 感觉自己的链表操作思路老和别人不太一样啊

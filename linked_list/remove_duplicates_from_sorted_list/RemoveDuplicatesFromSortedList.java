@@ -1,5 +1,7 @@
 package linked_list.remove_duplicates_from_sorted_list;
 
+import common.ListNode;
+
 public class RemoveDuplicatesFromSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode pre = head;

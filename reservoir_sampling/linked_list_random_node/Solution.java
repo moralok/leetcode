@@ -1,5 +1,7 @@
 package reservoir_sampling.linked_list_random_node;
 
+import common.ListNode;
+
 import java.util.Random;
 
 /**
@@ -48,14 +50,3 @@ class Solution {
     }
 }
 
-/**
- * Your Solution object will be instantiated and called as such:
- * Solution obj = new Solution(head);
- * int param_1 = obj.getRandom();
- */
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}

@@ -1,5 +1,7 @@
 package top;
 
+import common.ListNode;
+
 public class Lc0002Solution2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 参照答案使用新建链表的方式

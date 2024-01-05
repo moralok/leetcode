@@ -1,5 +1,7 @@
 package linked_list.reverse_linked_list;
 
+import common.ListNode;
+
 public class ReverseLinkedList2 {
     
     public ListNode reverseList(ListNode head) {

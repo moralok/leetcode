@@ -1,5 +1,7 @@
 package top;
 
+import common.ListNode;
+
 public class Lc0002Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 因为是从低位开始的，马上想到的是顺序累加，记录是否进位

@@ -1,5 +1,7 @@
 package lcof.lcof022;
 
+import common.ListNode;
+
 public class Lcof022Solution {
     public ListNode getKthFromEnd(ListNode head, int k) {
         ListNode fast = new ListNode(0);

@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 public class Lc2487Solution4 {
 
     public ListNode removeNodes(ListNode head) {

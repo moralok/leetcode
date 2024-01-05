@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 import java.util.LinkedList;
 
 public class Lc0143Solution {

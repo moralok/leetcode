@@ -1,5 +1,7 @@
 package linked_list.merge_two_sorted_lists;
 
+import common.ListNode;
+
 public class MergeTwoSortedLists2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);;

@@ -1,5 +1,7 @@
 package sort.sort_list;
 
+import common.ListNode;
+
 public class SortList {
     public ListNode sortList(ListNode head) {
         // 空间复杂度不符合要求

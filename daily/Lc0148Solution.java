@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 public class Lc0148Solution {
     public ListNode sortList(ListNode head) {
         // 计算长度

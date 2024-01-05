@@ -1,5 +1,7 @@
 package sort.sort_list;
 
+import common.ListNode;
+
 public class SortList2 {
     public ListNode sortList(ListNode head) {
         // 自底向上

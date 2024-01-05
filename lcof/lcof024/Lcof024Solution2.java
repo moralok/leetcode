@@ -1,5 +1,7 @@
 package lcof.lcof024;
 
+import common.ListNode;
+
 public class Lcof024Solution2 {
     public ListNode reverseList(ListNode head) {
         // 迭代

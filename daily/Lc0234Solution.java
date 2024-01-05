@@ -1,5 +1,7 @@
 package daily;
 
+import common.ListNode;
+
 public class Lc0234Solution {
     public boolean isPalindrome(ListNode head) {
         // 感觉对O(1)翻转链表还不够敏锐，不小心瞄到之前写得答案的一丢丢就被动想起来了。。。

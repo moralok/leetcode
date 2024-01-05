@@ -1,5 +1,7 @@
 package linked_list.remove_linked_list_elements;
 
+import common.ListNode;
+
 public class RemoveLinkedListElements2 {
     public ListNode removeElements(ListNode head, int val) {
         // 题解妙啊

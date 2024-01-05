@@ -1,5 +1,7 @@
 package linked_list.palindrome_linked_list;
 
+import common.ListNode;
+
 public class PalindromeLinkedList3 {
     public boolean isPalindrome(ListNode head) {
         // 翻转一半链表

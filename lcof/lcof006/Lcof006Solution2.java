@@ -1,5 +1,7 @@
 package lcof.lcof006;
 
+import common.ListNode;
+
 public class Lcof006Solution2 {
     public int[] reversePrint(ListNode head) {
         // 两次遍历

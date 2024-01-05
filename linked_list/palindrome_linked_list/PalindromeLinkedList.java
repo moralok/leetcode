@@ -1,5 +1,7 @@
 package linked_list.palindrome_linked_list;
 
+import common.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

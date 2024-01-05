@@ -1,5 +1,7 @@
 package linked_list.linked_list_cycle;
 
+import common.ListNode;
+
 import java.util.HashSet;
 import java.util.Set;
 
