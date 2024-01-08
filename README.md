@@ -124,7 +124,7 @@
 | [0437](https://leetcode-cn.com/problems/path-sum-iii/)                                            | 路径总和 III              | 中等  | [tree](tree):[dynamic programming](dynamic_programming)     |
 | [0438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)                           | 找到字符串中所有字母异位词         | 中等  | [sliding window](sliding_window)                            |
 | 0441                                                                                              | 排列硬币                  | 简单  ||
-| 0447                                                                                              | 回旋镖的数量                | 简单  ||
+| [0447](https://leetcode.cn/problems/number-of-boomerangs/)                                        | 回旋镖的数量                | 中等  | [daily](daily)                                              |
 | 0448                                                                                              | 找到所有数组中消失的数字          | 简单  ||
 | [0452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)              | 用最少数量的箭引爆气球           | 中等  | [daily](daily)                                              |
 | [0454](https://leetcode-cn.com/problems/4sum-ii/)                                                 | 四数相加 II               | 中等  | [daily](daily)                                              |
