@@ -194,6 +194,7 @@
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                         | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等  | [daily](daily)                                                             |
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等  | [daily](daily)                                                             |
+| [2696](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings)              | 删除子串后的字符串最小长度         | 简单  | [daily](daily)                                                             |
 | [2706](https://leetcode.cn/problems/buy-two-chocolates/)                                          | 购买两块巧克力               | 简单  | [daily](daily)                                                             |
 | [2707](https://leetcode.cn/problems/extra-characters-in-a-string/)                                | 字符串中的额外字符             | 中等  | [string](string):[dynamic programming](dynamic_programming):[daily](daily) |
 | [2807](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/)              | 在链表中插入最大公约数           | 中等  | [daily](daily)                                                             |
