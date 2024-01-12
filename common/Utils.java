@@ -21,6 +21,15 @@ public class Utils {
     }
 
     public static int[] buildInts(String str) {
+        String[] splits = buildStrings(str);
+        int[] ret = new int[splits.length];
+        for (int i = 0; i < splits.length; i++) {
+            ret[i] = Integer.parseInt(splits[i]);
+        }
+        return ret;
+    }
+
+    public static String[] buildStrings(String str) {
         if (str == null) {
             return null;
         }
@@ -30,12 +39,7 @@ public class Utils {
         if (str.charAt(str.length() - 1) == ']') {
             str = str.substring(0, str.length() - 1);
         }
-        String[] splits = str.split(",");
-        int[] ret = new int[splits.length];
-        for (int i = 0; i < splits.length; i++) {
-            ret[i] = Integer.parseInt(splits[i]);
-        }
-        return ret;
+        return str.split(",");
     }
 
     public static String buildStr(ListNode head) {
