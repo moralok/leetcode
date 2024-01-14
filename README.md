@@ -33,7 +33,7 @@
 | [0072](https://leetcode-cn.com/problems/edit-distance/)                                           | 编辑距离                  | 困难  | [dynamic programming](dynamic_programming)                                 |
 | [0076](https://leetcode-cn.com/problems/minimum-window-substring/)                                | 最小覆盖子串                | 困难  | [sliding window](sliding_window)                                           |
 | [0079](https://leetcode-cn.com/problems/word-search/)                                             | 单词搜索                  | 中等  | [top](top)                                                                 |
-| 0083                                                                                              | 删除排序链表中的重复元素          | 简单  ||
+| [0083](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                          | 删除排序链表中的重复元素          | 简单  | [linked_list](linked_list):[daily](daily)                                  |
 | 0088                                                                                              | 合并两个有序数组              | 简单  ||
 | 0094                                                                                              | 二叉树的中序遍历              | 中等  ||
 | 0100                                                                                              | 相同的树                  | 简单  ||
@@ -80,7 +80,7 @@
 | [0204](https://leetcode-cn.com/problems/count-primes/)                                            | 计数质数                  | 简单  | [hash table](hash_table):[daily](daily)                                    |
 | 0206                                                                                              | 反转链表                  | 简单  ||
 | [0217](https://leetcode-cn.com/problems/contains-duplicate/)                                      | 存在重复元素                | 简单  | [top](top)                                                                 |
-| [0208](https://leetcode.cn/problems/implement-trie-prefix-tree/                                   | 实现 Trie (前缀树)         | 中等  | [string](string)                                                           |
+| [0208](https://leetcode.cn/problems/implement-trie-prefix-tree/)                                  | 实现 Trie (前缀树)         | 中等  | [string](string)                                                           |
 | [0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)                               | 完全二叉树的节点个数            | 中等  | [daily](daily)                                                             |
 | 0225                                                                                              | 用队列实现栈                | 简单  ||
 | 0226                                                                                              | 翻转二叉树                 | 简单  ||
