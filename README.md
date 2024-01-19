@@ -205,6 +205,7 @@
 | [2719](https://leetcode.cn/problems/count-of-integers/)                                           | 统计整数数目                | 中等  | [string](string):[dynamic programming](dynamic_programming):[daily](daily) |
 | [2744](https://leetcode.cn/problems/find-maximum-number-of-string-pairs/)                         | 最大字符串配对数目             | 中等  | [daily](daily)                                                             |
 | [2807](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/)              | 在链表中插入最大公约数           | 中等  | [daily](daily)                                                             |
+| [2809](https://leetcode.cn/problems/minimum-time-to-make-array-sum-at-most-x/)                    | 使数组和小于等于 x 的最少时间      | 中等  | [daily](daily)                                                             |
 
 # [剑指 offer](lcof)
 
