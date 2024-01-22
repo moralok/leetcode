@@ -120,7 +120,7 @@
 | 0404                                                                                              | 左叶子之和                 | 简单  ||
 | [0406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)                          | 根据身高重建队列              | 中等  | [daily](daily)                                                             |
 | 0409                                                                                              | 最长回文串                 | 简单  ||
-| [0410](https://leetcode.cn/problems/split-array-largest-sum/)                                     | 分割数组的最大值    | 困难  | [daily](daily)                                                             |
+| [0410](https://leetcode.cn/problems/split-array-largest-sum/)                                     | 分割数组的最大值              | 困难  | [daily](daily)                                                             |
 | [0412](https://leetcode-cn.com/problems/fizz-buzz/)                                               | Fizz Buzz             | 简单  | [top](top)                                                                 |
 | 0415                                                                                              | 字符串相加                 | 简单  ||
 | [0424](https://leetcode-cn.com/tag/sliding-window/)                                               | 替换后的最长重复字符            | 中等  | [sliding window](sliding_window)                                           |
@@ -154,6 +154,7 @@
 | 0653                                                                                              | 两数之和 IV - 输入 BST      | 简单  ||
 | 0657                                                                                              | 机器人能否返回原点             | 简单  ||
 | 0669                                                                                              | 修剪二叉搜索树               | 简单  ||
+| [0670](https://leetcode.cn/problems/maximum-swap/)                                                | 最大交换                  | 中等  | [daily](daily)                                                             |
 | 0682                                                                                              | 棒球比赛                  | 简单  ||
 | 0686                                                                                              | 重复叠加字符串匹配             | 简单  ||
 | 0687                                                                                              | 最长同值路径                | 简单  ||
