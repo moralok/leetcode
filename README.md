@@ -104,6 +104,7 @@
 | [0347](https://leetcode-cn.com/problems/top-k-frequent-elements/)                                 | 前 K 个高频元素             | 中等  | [top](top)                                                                 |
 | [0349](https://leetcode-cn.com/problems/intersection-of-two-arrays/)                              | 两个数组的交集               | 简单  | [daily](daily)                                                             |
 | 0350                                                                                              | 两个数组的交集 II            | 简单  ||
+| [0365](https://leetcode.cn/problems/water-and-jug-problem/)                                       | 水壶问题                  | 中等  | [daily](daily)                                                             |
 | 0367                                                                                              | 有效的完全平方数              | 简单  ||
 | [0370](https://leetcode-cn.com/problems/range-addition/)                                          | 区间加法                  | 中等  | [dynamic programming](dynamic_programming)                                 |
 | [0371](https://leetcode-cn.com/problems/sum-of-two-integers/)                                     | 两整数之和                 | 简单  | [top](top)                                                                 |
