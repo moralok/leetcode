@@ -198,6 +198,7 @@
 | [1599](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel)               | 经营摩天轮的最大利润            | 中等  | [daily](daily)                                                             |
 | [1686](https://leetcode.cn/problems/stone-game-vi/)                                               | 石子游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1690](https://leetcode.cn/problems/stone-game-vii/)                                              | 石子游戏 VII              | 中等  | [daily](daily)                                                             |
+| [1696](https://leetcode.cn/problems/jump-game-vi/)                                                | 跳跃游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                         | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
 | [2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence)                       | 统计出现过一次的公共字符串         | 简单  | [daily](daily)                                                             |
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等  | [daily](daily)                                                             |
