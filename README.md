@@ -94,6 +94,7 @@
 | 0257                                                                                              | 二叉树的所有路径              | 简单  ||
 | 0268                                                                                              | 缺失数字                  | 简单  ||
 | [0283](https://leetcode-cn.com/problems/move-zeroes/)                                             | 移动零                   | 简单  | [daily](daily)                                                             |
+| [0292](https://leetcode.cn/problems/nim-game/)                                                    | Nim 游戏                | 简单  | [daily](daily)                                                             |
 | 0297                                                                                              | 二叉树的序列化与反序列化          | 困难  ||
 | [0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)                          | 最长上升子序列               | 中等  | [dynamic programming](dynamic_programming)                                 |
 | [0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)                               | 区域和检索 - 数组不可变         | 简单  | [dynamic programming](dynamic_programming)                                 |
