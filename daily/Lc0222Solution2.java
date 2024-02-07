@@ -1,5 +1,7 @@
 package daily;
 
+import common.TreeNode;
+
 public class Lc0222Solution2 {
 
     public int countNodes(TreeNode root) {
