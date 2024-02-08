@@ -179,6 +179,7 @@
 | [0973](https://leetcode-cn.com/problems/k-closest-points-to-origin/)                              | 最接近原点的 K 个点           | 中等  | [daily](daily)                                                             |
 | [0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)                               | 有序数组的平方               | 简单  | [daily](daily)                                                             |
 | 0997                                                                                              | 找到小镇的法官               | 简单  ||
+| [0993](https://leetcode.cn/problems/cousins-in-binary-tree/)                                      | 二叉树的堂兄弟节点             | 简单  | [daily](daily)                                                             |
 | [1002](https://leetcode-cn.com/problems/find-common-characters/)                                  | 查找常用字符                | 简单  | [daily](daily)                                                             |
 | [1207](https://leetcode-cn.com/problems/unique-number-of-occurrences/)                            | 独一无二的出现次数             | 简单  | [daily](daily)                                                             |
 | [1024](https://leetcode-cn.com/problems/video-stitching/)                                         | 视频拼接                  | 中等  | [daily](daily)                                                             |
