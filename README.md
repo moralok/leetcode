@@ -87,7 +87,7 @@
 | 0226                                                                                              | 翻转二叉树                 | 简单  ||
 | 0232                                                                                              | 用栈实现队列                | 简单  ||
 | [0234](https://leetcode-cn.com/problems/partition-labels/)                                        | 回文链表                  | 简单  | [daily](daily)                                                             |
-| 0236                                                                                              | 二叉树的最近公共祖先            | 中等  ||
+| [0236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)                     | 二叉树的最近公共祖先            | 中等  | [daily](daily)                                                             |
 | 0237                                                                                              | 删除链表中的节点              | 简单  ||
 | [0242](https://leetcode-cn.com/problems/valid-anagram/)                                           | 有效的字母异位词              | 简单  | [top](top):[daily](daily)                                                  |
 | [0253](https://leetcode-cn.com/problems/meeting-rooms-ii/)                                        | 会议室 II                | 中等  | [top](top)                                                                 |
