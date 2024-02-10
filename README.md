@@ -36,7 +36,7 @@
 | [0082](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)                       | 删除排序链表中的重复元素 II       | 简单  | [linked_list](linked_list):[daily](daily)                                  |
 | [0083](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                          | 删除排序链表中的重复元素          | 简单  | [linked_list](linked_list):[daily](daily)                                  |
 | 0088                                                                                              | 合并两个有序数组              | 简单  ||
-| 0094                                                                                              | 二叉树的中序遍历              | 中等  ||
+| [0094](https://leetcode.cn/problems/binary-tree-inorder-traversal/)                               | 二叉树的中序遍历              | 简单  | [daily](daily)                                                             |
 | 0100                                                                                              | 相同的树                  | 简单  ||
 | 0101                                                                                              | 对称二叉树                 | 简单  ||
 | 0102                                                                                              | 二叉树的层序遍历              | 中等  ||
