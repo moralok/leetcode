@@ -60,7 +60,7 @@
 | 0141                                                                                              | 环形链表                  | 简单  ||
 | [0143](https://leetcode-cn.com/problems/reorder-list/)                                            | 重排链表                  | 中等  | [daily](daily)                                                             |
 | [0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                          | 二叉树的前序遍历              | 简单  | [daily](daily)                                                             |
-| 0145                                                                                              | 二叉树的后序遍历              | 困难  ||
+| [0145](https://leetcode.cn/problems/binary-tree-postorder-traversal/)                             | 二叉树的后序遍历              | 简单  | [daily](daily)                                                             |
 | [0146](https://leetcode-cn.com/problems/lru-cache/)                                               | LRU 缓存机制              | 中等  | [top](top)                                                                 |
 | [0147](https://leetcode-cn.com/problems/insertion-sort-list/)                                     | 对链表进行插入排序             | 中等  | [daily](daily)                                                             |
 | [0148](https://leetcode-cn.com/problems/sort-list/)                                               | 排序链表                  | 中等  | [daily](daily)                                                             |
