@@ -154,6 +154,7 @@
 | 0561                                                                                              | 数组拆分1                 | 简单  ||
 | [0567](https://leetcode-cn.com/problems/permutation-in-string/)                                   | 字符串的排列                | 中等  | [sliding window](sliding_window)                                           |
 | [0589](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)                               | N 叉树的前序遍历             | 简单  | [daily](daily)                                                             |
+| [0590](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/)                              | N 叉树的后序遍历             | 简单  | [daily](daily)                                                             |
 | 0617                                                                                              | 合并二叉树                 | 简单  ||
 | 0628                                                                                              | 三个数的最大乘积              | 简单  ||
 | 0637                                                                                              | 二叉树的层平均值              | 简单  ||
