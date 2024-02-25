@@ -88,6 +88,7 @@
 | 0226                                                                                              | 翻转二叉树                 | 简单  ||
 | 0232                                                                                              | 用栈实现队列                | 简单  ||
 | [0234](https://leetcode-cn.com/problems/partition-labels/)                                        | 回文链表                  | 简单  | [daily](daily)                                                             |
+| [0235](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)              | 二叉搜索树的最近公共祖先          | 中等  | [daily](daily)                                                             |
 | [0236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)                     | 二叉树的最近公共祖先            | 中等  | [daily](daily)                                                             |
 | 0237                                                                                              | 删除链表中的节点              | 简单  ||
 | [0242](https://leetcode-cn.com/problems/valid-anagram/)                                           | 有效的字母异位词              | 简单  | [top](top):[daily](daily)                                                  |
@@ -212,6 +213,7 @@
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等  | [daily](daily)                                                             |
 | [2182](https://leetcode.cn/problems/construct-string-with-repeat-limit/)                          | 构造限制重复的字符串            | 中等  | [daily](daily)                                                             |
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等  | [daily](daily)                                                             |
+| [2476](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/)               | 二叉搜索树最近节点查询           | 中等  | [daily](daily)                                                             |
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等  | [daily](daily)                                                             |
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等  | [daily](daily)                                                             |
 | [2645](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)                      | 构造有效字符串的最少插入数         | 中等  | [daily](daily)                                                             |
