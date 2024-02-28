@@ -219,6 +219,7 @@
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等  | [daily](daily)                                                             |
 | [2645](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)                      | 构造有效字符串的最少插入数         | 中等  | [daily](daily)                                                             |
 | [2670](https://leetcode.cn/problems/find-the-distinct-difference-array/)                          | 找出不同元素数目差数组           | 简单  | [daily](daily)                                                             |
+| [2673](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)                  | 使二叉树所有路径值相等的最小代价      | 中等  | [daily](daily)                                                             |
 | [2696](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings)              | 删除子串后的字符串最小长度         | 简单  | [daily](daily)                                                             |
 | [2706](https://leetcode.cn/problems/buy-two-chocolates/)                                          | 购买两块巧克力               | 简单  | [daily](daily)                                                             |
 | [2707](https://leetcode.cn/problems/extra-characters-in-a-string/)                                | 字符串中的额外字符             | 中等  | [string](string):[dynamic programming](dynamic_programming):[daily](daily) |
