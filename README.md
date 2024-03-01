@@ -213,6 +213,7 @@
 | [2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence)                       | 统计出现过一次的公共字符串         | 简单  | [daily](daily)                                                             |
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等  | [daily](daily)                                                             |
 | [2182](https://leetcode.cn/problems/construct-string-with-repeat-limit/)                          | 构造限制重复的字符串            | 中等  | [daily](daily)                                                             |
+| [2369](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/)           | 检查数组是否存在有效划分          | 中等  | [daily](daily)                                                             |
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等  | [daily](daily)                                                             |
 | [2476](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/)               | 二叉搜索树最近节点查询           | 中等  | [daily](daily)                                                             |
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等  | [daily](daily)                                                             |
