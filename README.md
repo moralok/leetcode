@@ -86,7 +86,7 @@
 | [0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)                               | 完全二叉树的节点个数            | 中等  | [daily](daily)                                                             |
 | [0225](https://leetcode.cn/problems/implement-stack-using-queues/)                                | 用队列实现栈                | 简单  | [daily](daily)                                                             |
 | 0226                                                                                              | 翻转二叉树                 | 简单  ||
-| 0232                                                                                              | 用栈实现队列                | 简单  ||
+| [0232](https://leetcode.cn/problems/implement-queue-using-stacks/)                                | 用栈实现队列                | 简单  | [daily](daily)                                                             |
 | [0234](https://leetcode-cn.com/problems/partition-labels/)                                        | 回文链表                  | 简单  | [daily](daily)                                                             |
 | [0235](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)              | 二叉搜索树的最近公共祖先          | 中等  | [daily](daily)                                                             |
 | [0236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)                     | 二叉树的最近公共祖先            | 中等  | [daily](daily)                                                             |
