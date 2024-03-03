@@ -84,7 +84,7 @@
 | [0217](https://leetcode-cn.com/problems/contains-duplicate/)                                      | 存在重复元素                | 简单  | [top](top)                                                                 |
 | [0208](https://leetcode.cn/problems/implement-trie-prefix-tree/)                                  | 实现 Trie (前缀树)         | 中等  | [string](string)                                                           |
 | [0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/)                               | 完全二叉树的节点个数            | 中等  | [daily](daily)                                                             |
-| 0225                                                                                              | 用队列实现栈                | 简单  ||
+| [0225](https://leetcode.cn/problems/implement-stack-using-queues/)                                | 用队列实现栈                | 简单  | [daily](daily)                                                             |
 | 0226                                                                                              | 翻转二叉树                 | 简单  ||
 | 0232                                                                                              | 用栈实现队列                | 简单  ||
 | [0234](https://leetcode-cn.com/problems/partition-labels/)                                        | 回文链表                  | 简单  | [daily](daily)                                                             |
