@@ -219,6 +219,7 @@
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等 | [daily](daily)                                                             |
 | [2476](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/)               | 二叉搜索树最近节点查询           | 中等 | [daily](daily)                                                             |
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等 | [daily](daily)                                                             |
+| [2575](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/)                     | 找出字符串的可整除数组           | 中等 | [daily](daily)                                                             |
 | [2581](https://leetcode.cn/problems/count-number-of-possible-root-nodes/)                         | 统计可能的树根数目             | 困难 | [daily](daily)                                                             |
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等 | [daily](daily)                                                             |
 | [2645](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)                      | 构造有效字符串的最少插入数         | 中等 | [daily](daily)                                                             |
