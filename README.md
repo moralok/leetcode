@@ -235,6 +235,7 @@
 | [2807](https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/)              | 在链表中插入最大公约数           | 中等 | [daily](daily)                                                             |
 | [2808](https://leetcode.cn/problems/minimum-seconds-to-equalize-a-circular-array/)                | 使循环数组所有元素相等的最少秒数      | 中等 | [daily](daily)                                                             |
 | [2809](https://leetcode.cn/problems/minimum-time-to-make-array-sum-at-most-x/)                    | 使数组和小于等于 x 的最少时间      | 中等 | [daily](daily)                                                             |
+| [2834](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)          | 找出美丽数组的最小和            | 中等 | [daily](daily)                                                             |
 | [2846](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)           | 边权重均等查询               | 困难 | [daily](daily)                                                             |
 | [2861](https://leetcode.cn/problems/maximum-number-of-alloys/)                                    | 最大合金数                 | 中等 | [daily](daily)                                                             |
 | [2865](https://leetcode.cn/problems/beautiful-towers-i/)                                          | 美丽塔 I                 | 中等 | [daily](daily)                                                             |
