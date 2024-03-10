@@ -98,6 +98,7 @@
 | [0283](https://leetcode-cn.com/problems/move-zeroes/)                                             | 移动零                   | 简单 | [daily](daily)                                                             |
 | [0292](https://leetcode.cn/problems/nim-game/)                                                    | Nim 游戏                | 简单 | [daily](daily)                                                             |
 | 0297                                                                                              | 二叉树的序列化与反序列化          | 困难 |                                                                            |
+| [0299](https://leetcode.cn/problems/bulls-and-cows/)                                              | 猜数字游戏                 | 中等 | [daily](daily)                                                             |
 | [0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)                          | 最长上升子序列               | 中等 | [dynamic programming](dynamic_programming)                                 |
 | [0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)                               | 区域和检索 - 数组不可变         | 简单 | [dynamic programming](dynamic_programming)                                 |
 | [0326](https://leetcode-cn.com/problems/power-of-three/)                                          | 3的幂                   | 简单 | [top](top)                                                                 |
@@ -212,6 +213,7 @@
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                         | 队列中可以看到的人数            | 困难 | [daily](daily)                                                             |
 | [1976](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/)                     | 到达目的地的方案数             | 中等 | [daily](daily)                                                             |
 | [2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence)                       | 统计出现过一次的公共字符串         | 简单 | [daily](daily)                                                             |
+| [2129](https://leetcode.cn/problems/capitalize-the-title/)                                        | 将标题首字母大写              | 简单 | [daily](daily)                                                             |
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等 | [daily](daily)                                                             |
 | [2182](https://leetcode.cn/problems/construct-string-with-repeat-limit/)                          | 构造限制重复的字符串            | 中等 | [daily](daily)                                                             |
 | [2368](https://leetcode.cn/problems/reachable-nodes-with-restrictions/)                           | 受限条件下可到达节点的数目         | 中等 | [daily](daily)                                                             |
