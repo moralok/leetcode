@@ -201,6 +201,7 @@
 | [1185](https://leetcode.cn/problems/day-of-the-week/)                                             | 一周中的第几天               | 简单 | [daily](daily)                                                             |
 | 1214                                                                                              | 查找两棵二叉搜索树之和           | 中等 |                                                                            |
 | [1122](https://leetcode-cn.com/problems/relative-sort-array/)                                     | 数组的相对排序               | 简单 | [daily](daily)                                                             |
+| [1261](https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/)                 | 在受污染的二叉树中查找元素         | 中等 | [daily](daily)                                                             |
 | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)                   | 根据数字二进制下 1 的数目排序      | 简单 | [daily](daily)                                                             |
 | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)    | 有多少小于当前数字的数字          | 简单 | [daily](daily)                                                             |
 | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/)                            | 上升下降字符串               | 简单 | [daily](daily)                                                             |
