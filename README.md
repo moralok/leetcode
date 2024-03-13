@@ -241,6 +241,7 @@
 | [2834](https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)          | 找出美丽数组的最小和            | 中等 | [daily](daily)                                                             |
 | [2846](https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)           | 边权重均等查询               | 困难 | [daily](daily)                                                             |
 | [2861](https://leetcode.cn/problems/maximum-number-of-alloys/)                                    | 最大合金数                 | 中等 | [daily](daily)                                                             |
+| [2864](https://leetcode.cn/problems/maximum-odd-binary-number/)                                   | 最大二进制奇数               | 简单 | [daily](daily)                                                             |
 | [2865](https://leetcode.cn/problems/beautiful-towers-i/)                                          | 美丽塔 I                 | 中等 | [daily](daily)                                                             |
 | [2867](https://leetcode.cn/problems/count-valid-paths-in-a-tree/)                                 | 统计树中的合法路径数目           | 困难 | [daily](daily)                                                             |
 | [2917](https://leetcode.cn/problems/find-the-k-or-of-an-array/)                                   | 找出数组中的 K-or 值         | 简单 | [daily](daily)                                                             |
