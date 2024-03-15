@@ -217,6 +217,7 @@
 | [2129](https://leetcode.cn/problems/capitalize-the-title/)                                        | 将标题首字母大写              | 简单 | [daily](daily)                                                             |
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等 | [daily](daily)                                                             |
 | [2182](https://leetcode.cn/problems/construct-string-with-repeat-limit/)                          | 构造限制重复的字符串            | 中等 | [daily](daily)                                                             |
+| [2312](https://leetcode.cn/problems/selling-pieces-of-wood/)                                      | 卖木头块                  | 困难 | [daily](daily)                                                             |
 | [2368](https://leetcode.cn/problems/reachable-nodes-with-restrictions/)                           | 受限条件下可到达节点的数目         | 中等 | [daily](daily)                                                             |
 | [2369](https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/)           | 检查数组是否存在有效划分          | 中等 | [daily](daily)                                                             |
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等 | [daily](daily)                                                             |
