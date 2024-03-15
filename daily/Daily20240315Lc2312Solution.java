@@ -24,6 +24,6 @@ public class Daily20240315Lc2312Solution {
         Daily20240315Lc2312Solution solution = new Daily20240315Lc2312Solution();
         int m = 3, n = 5;
         int[][] prices = new int[][]{{1,4,2},{2,2,7},{2,1,3}};
-        System.out.println(solution.sellingWood(m, n, prices));
+        assert solution.sellingWood(m, n, prices) == 7;
     }
 }
