@@ -227,6 +227,7 @@
 | [2575](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/)                     | 找出字符串的可整除数组           | 中等  | [daily](daily)                                                             |
 | [2581](https://leetcode.cn/problems/count-number-of-possible-root-nodes/)                         | 统计可能的树根数目             | 困难  | [daily](daily)                                                             |
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等  | [daily](daily)                                                             |
+| [2617](https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/)                   | 网格图中最少访问的格子数          | 中等  | [daily](daily)                                                             |
 | [2645](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)                      | 构造有效字符串的最少插入数         | 中等  | [daily](daily)                                                             |
 | [2670](https://leetcode.cn/problems/find-the-distinct-difference-array/)                          | 找出不同元素数目差数组           | 简单  | [daily](daily)                                                             |
 | [2673](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)                  | 使二叉树所有路径值相等的最小代价      | 中等  | [daily](daily)                                                             |
