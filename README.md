@@ -213,6 +213,7 @@
 | [1696](https://leetcode.cn/problems/jump-game-vi/)                                                | 跳跃游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1793](https://leetcode.cn/problems/maximum-score-of-a-good-subarray/)                            | 好子数组的最大分数             | 中等  | [daily](daily)                                                             |
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                         | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
+| [1969](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)              | 数组元素的最小非零乘积           | 中等  | [daily](daily)                                                             |
 | [1976](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/)                     | 到达目的地的方案数             | 中等  | [daily](daily)                                                             |
 | [2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence)                       | 统计出现过一次的公共字符串         | 简单  | [daily](daily)                                                             |
 | [2129](https://leetcode.cn/problems/capitalize-the-title/)                                        | 将标题首字母大写              | 简单  | [daily](daily)                                                             |
@@ -224,12 +225,14 @@
 | [2397](https://leetcode.cn/problems/maximum-rows-covered-by-columns/)                             | 被列覆盖的最多行数             | 中等  | [daily](daily)                                                             |
 | [2476](https://leetcode.cn/problems/closest-nodes-queries-in-a-binary-search-tree/)               | 二叉搜索树最近节点查询           | 中等  | [daily](daily)                                                             |
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等  | [daily](daily)                                                             |
+| [2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)                             | 统计桌面上的不同数字            | 简单  | [daily](daily)                                                             |
 | [2575](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/)                     | 找出字符串的可整除数组           | 中等  | [daily](daily)                                                             |
 | [2581](https://leetcode.cn/problems/count-number-of-possible-root-nodes/)                         | 统计可能的树根数目             | 困难  | [daily](daily)                                                             |
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等  | [daily](daily)                                                             |
 | [2617](https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/)                   | 网格图中最少访问的格子数          | 中等  | [daily](daily)                                                             |
 | [2645](https://leetcode.cn/problems/minimum-additions-to-make-valid-string/)                      | 构造有效字符串的最少插入数         | 中等  | [daily](daily)                                                             |
 | [2670](https://leetcode.cn/problems/find-the-distinct-difference-array/)                          | 找出不同元素数目差数组           | 简单  | [daily](daily)                                                             |
+| [2671](https://leetcode.cn/problems/frequency-tracker/)                                           | 频率跟踪器                 | 中等  | [daily](daily)                                                             |
 | [2673](https://leetcode.cn/problems/make-costs-of-paths-equal-in-a-binary-tree/)                  | 使二叉树所有路径值相等的最小代价      | 中等  | [daily](daily)                                                             |
 | [2684](https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/)                           | 矩阵中移动的最大次数            | 中等  | [daily](daily)                                                             |
 | [2696](https://leetcode.cn/problems/minimum-string-length-after-removing-substrings)              | 删除子串后的字符串最小长度         | 简单  | [daily](daily)                                                             |
