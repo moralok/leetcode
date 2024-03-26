@@ -101,6 +101,7 @@
 | [0299](https://leetcode.cn/problems/bulls-and-cows/)                                              | 猜数字游戏                 | 中等  | [daily](daily)                                                             |
 | [0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)                          | 最长上升子序列               | 中等  | [dynamic programming](dynamic_programming)                                 |
 | [0303](https://leetcode-cn.com/problems/range-sum-query-immutable/)                               | 区域和检索 - 数组不可变         | 简单  | [daily](daily):[dynamic programming](dynamic_programming)                  |
+| [0322](https://leetcode.cn/problems/coin-change-ii/description/)                                  | 零钱兑换                  | 中等  | [daily](daily):[dynamic programming](dynamic_programming)                  |
 | [0326](https://leetcode-cn.com/problems/power-of-three/)                                          | 3的幂                   | 简单  | [top](top)                                                                 |
 | [0340](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)    | 至多包含 K 个不同字符的最长子串     | 中等  | [sliding window](sliding_window)                                           |
 | 0345                                                                                              | 反转字符串中的元音字母           | 简单  |                                                                            |
@@ -146,6 +147,7 @@
 | 0501                                                                                              | 二叉搜索树中的众数             | 简单  |                                                                            |
 | [0514](https://leetcode.cn/problems/freedom-trail/)                                               | 自由之路                  | 困难  | [daily](daily)                                                             |
 | [0516](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)                         | 最长回文子序列               | 中等  | [dynamic programming](dynamic_programming)                                 |
+| [0518](https://leetcode.cn/problems/coin-change-ii/)                                              | 零钱兑换 II               | 中等  | [daily](daily):[dynamic programming](dynamic_programming)                  |
 | 0521                                                                                              | 最长特殊序列 Ⅰ              | 简单  |                                                                            |
 | 0530                                                                                              | 二叉搜索树的最小绝对差           | 简单  |                                                                            |
 | 0538                                                                                              | 把二叉搜索树转换为累加树          | 简单  |                                                                            |
