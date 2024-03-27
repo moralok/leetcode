@@ -229,6 +229,7 @@
 | [2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)                               | 从链表中移除节点              | 中等  | [daily](daily)                                                             |
 | [2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)                             | 统计桌面上的不同数字            | 简单  | [daily](daily)                                                             |
 | [2575](https://leetcode.cn/problems/find-the-divisibility-array-of-a-string/)                     | 找出字符串的可整除数组           | 中等  | [daily](daily)                                                             |
+| [2580](https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges/)                      | 统计将重叠区间合并成组的方案数       | 中等  | [daily](daily)                                                             |
 | [2581](https://leetcode.cn/problems/count-number-of-possible-root-nodes/)                         | 统计可能的树根数目             | 困难  | [daily](daily)                                                             |
 | [2583](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)                            | 二叉树中的第 K 大层和          | 中等  | [daily](daily)                                                             |
 | [2617](https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/)                   | 网格图中最少访问的格子数          | 中等  | [daily](daily)                                                             |
