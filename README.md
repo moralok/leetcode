@@ -217,6 +217,7 @@
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                         | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
 | [1969](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)              | 数组元素的最小非零乘积           | 中等  | [daily](daily)                                                             |
 | [1976](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/)                     | 到达目的地的方案数             | 中等  | [daily](daily)                                                             |
+| [1997](https://leetcode.cn/problems/first-day-where-you-have-been-in-all-the-rooms/)              | 访问完所有房间的第一天           | 中等  | [daily](daily)                                                             |
 | [2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence)                       | 统计出现过一次的公共字符串         | 简单  | [daily](daily)                                                             |
 | [2129](https://leetcode.cn/problems/capitalize-the-title/)                                        | 将标题首字母大写              | 简单  | [daily](daily)                                                             |
 | [2171](https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/)                      | 拿出最少数目的魔法豆            | 中等  | [daily](daily)                                                             |
