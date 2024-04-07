@@ -212,7 +212,8 @@
 | [1379](https://leetcode.cn/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | 找出克隆二叉树中的相同节点         | 简单  |                                                                            |
 | 1382                                                                                                     | 将二叉搜索树变平衡             | 中等  |                                                                            |
 | [1483](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/)                                        | 树节点的第 K 个祖先           | 中等  | [daily](daily)                                                             |
-| [1599](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel)                      | 经营摩天轮的最大利润            | 中等  | [daily](daily)                                                             |
+| [1599](https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/)                     | 经营摩天轮的最大利润            | 中等  | [daily](daily)                                                             |
+| [1600](https://leetcode.cn/problems/throne-inheritance/)                                                 | 王位继承顺序                | 中等  | [daily](daily)                                                             |
 | [1686](https://leetcode.cn/problems/stone-game-vi/)                                                      | 石子游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1690](https://leetcode.cn/problems/stone-game-vii/)                                                     | 石子游戏 VII              | 中等  | [daily](daily)                                                             |
 | [1696](https://leetcode.cn/problems/jump-game-vi/)                                                       | 跳跃游戏 VI               | 中等  | [daily](daily)                                                             |
