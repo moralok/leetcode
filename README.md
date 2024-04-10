@@ -217,6 +217,7 @@
 | [1686](https://leetcode.cn/problems/stone-game-vi/)                                                      | 石子游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1690](https://leetcode.cn/problems/stone-game-vii/)                                                     | 石子游戏 VII              | 中等  | [daily](daily)                                                             |
 | [1696](https://leetcode.cn/problems/jump-game-vi/)                                                       | 跳跃游戏 VI               | 中等  | [daily](daily)                                                             |
+| [1702](https://leetcode.cn/problems/maximum-binary-string-after-change/)                                 | 修改后的最大二进制字符串          | 中等  | [daily](daily)                                                             |
 | [1793](https://leetcode.cn/problems/maximum-score-of-a-good-subarray/)                                   | 好子数组的最大分数             | 中等  | [daily](daily)                                                             |
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                                | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
 | [1969](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)                     | 数组元素的最小非零乘积           | 中等  | [daily](daily)                                                             |
