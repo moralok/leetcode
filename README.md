@@ -266,6 +266,7 @@
 | [2908](https://leetcode.cn/problems/minimum-sum-of-mountain-triplets-i/)                                 | 元素和最小的山形三元组 I         | 简单  | [daily](daily)                                                             |
 | [2917](https://leetcode.cn/problems/find-the-k-or-of-an-array/)                                          | 找出数组中的 K-or 值         | 简单  | [daily](daily)                                                             |
 | [2923](https://leetcode.cn/problems/find-champion-i/)                                                    | 找到冠军 I                | 简单  | [daily](daily)                                                             |
+| [2924](https://leetcode.cn/problems/find-champion-ii/)                                                   | 找到冠军 II               | 中等  | [daily](daily)                                                             |
 | [2952](https://leetcode.cn/problems/minimum-number-of-coins-to-be-added/)                                | 需要添加的硬币的最小数量          | 中等  | [daily](daily)                                                             |
 
 # [剑指 offer](lcof)
