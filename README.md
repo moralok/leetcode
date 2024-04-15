@@ -173,6 +173,7 @@
 | 0696                                                                                                     | 计数二进制子串               | 简单  |                                                                            |
 | 0697                                                                                                     | 数组的度                  | 简单  |                                                                            |
 | [0705](https://leetcode.cn/problems/design-hashset/)                                                     | 设计哈希集合                | 简单  | [daily](daily)                                                             |
+| [0706](https://leetcode.cn/problems/design-hashmap/)                                                     | 设计哈希映射                | 简单  | [daily](daily)                                                             |
 | 0717                                                                                                     | 1比特与2比特字符             | 简单  |                                                                            |
 | 0747                                                                                                     | 至少是其他数字两倍的最大数         | 简单  |                                                                            |
 | [0763](https://leetcode-cn.com/problems/partition-labels/)                                               | 划分字母区间                | 中等  | [daily](daily)                                                             |
