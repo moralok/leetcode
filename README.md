@@ -184,6 +184,7 @@
 | [0889](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)        | 根据前序和后序遍历构造二叉树        | 中等  | [daily](daily)                                                             |
 | [0894](https://leetcode.cn/problems/all-possible-full-binary-trees/)                                     | 所有可能的真二叉树             | 中等  | [daily](daily)                                                             |
 | [0922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)                                        | 按奇偶排序数组 II            | 简单  | [daily](daily)                                                             |
+| [0924](https://leetcode.cn/problems/minimize-malware-spread/)                                            | 尽量减少恶意软件的传播           | 困难  | [daily](daily)                                                             |
 | [0925](https://leetcode-cn.com/problems/long-pressed-name/)                                              | 长按键入                  | 简单  | [daily](daily)                                                             |
 | 0929                                                                                                     | 独特的电子邮件地址             | 简单  |                                                                            |
 | 0933                                                                                                     | 最近的请求次数               | 简单  |                                                                            |
