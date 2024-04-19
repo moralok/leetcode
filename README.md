@@ -222,6 +222,7 @@
 | [1696](https://leetcode.cn/problems/jump-game-vi/)                                                       | 跳跃游戏 VI               | 中等  | [daily](daily)                                                             |
 | [1702](https://leetcode.cn/problems/maximum-binary-string-after-change/)                                 | 修改后的最大二进制字符串          | 中等  | [daily](daily)                                                             |
 | [1793](https://leetcode.cn/problems/maximum-score-of-a-good-subarray/)                                   | 好子数组的最大分数             | 中等  | [daily](daily)                                                             |
+| [1883](https://leetcode.cn/problems/minimum-skips-to-arrive-at-meeting-on-time/)                         | 准时抵达会议现场的最小跳过休息次数     | 困难  | [daily](daily)                                                             |
 | [1944](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)                                | 队列中可以看到的人数            | 困难  | [daily](daily)                                                             |
 | [1969](https://leetcode.cn/problems/minimum-non-zero-product-of-the-array-elements/)                     | 数组元素的最小非零乘积           | 中等  | [daily](daily)                                                             |
 | [1976](https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/)                            | 到达目的地的方案数             | 中等  | [daily](daily)                                                             |
