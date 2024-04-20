@@ -20,6 +20,7 @@
 | [0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)        | 在排序数组中查找元素的第一个和最后一个位置 | 中等  | [daily](daily)                                                             |
 | 0035                                                                                                     | 搜索插入位置                | 简单  |                                                                            |
 | 0038                                                                                                     | 外观数列                  | 简单  |                                                                            |
+| [0039](https://leetcode.cn/problems/combination-sum/)                                                    | 组合总和                  | 中等  | [daily](daily)                                                             |
 | [0046](https://leetcode-cn.com/problems/permutations/)                                                   | 全排列                   | 中等  | [top](top)                                                                 |
 | [0053](https://leetcode-cn.com/problems/maximum-subarray/)                                               | 最大子序和                 | 简单  | [array](array):[dynamic programming](dynamic_programming)                  |
 | [0054](https://leetcode-cn.com/problems/spiral-matrix/)                                                  | 螺旋矩阵                  | 中等  | [top](top)                                                                 |
